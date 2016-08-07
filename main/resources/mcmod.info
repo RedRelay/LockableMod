@@ -2,7 +2,7 @@
 {
   "modid": "lockablemod",
   "name": "Lockable Mod",
-  "description": "Use paddlock in Minecraft",
+  "description": "Use padlock in Minecraft",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
