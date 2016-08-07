@@ -1,0 +1,6 @@
+{
+    "parent": "block/crafting_table",
+    "textures": {
+        "up": "lockablemod:blocks/padlock_workbench_top"
+    }
+}

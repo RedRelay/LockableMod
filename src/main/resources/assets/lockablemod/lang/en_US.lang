@@ -1,3 +1,4 @@
 ﻿itemGroup.lockablemod=Lockable Mod
 item.lockablemod_key.name=Key
 item.lockablemod_padlock.name=Padlock
+tile.lockablemod_padlock_workbench.name=Padlock Workbench
