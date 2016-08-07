@@ -10,7 +10,7 @@ public class LockableModItem extends Item{
 		
 		@Override
 		public Item getTabIconItem() {
-			return Items.key;
+			return Items.padlock;
 		}
 	};
 	
