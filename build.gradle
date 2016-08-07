@@ -22,7 +22,7 @@ plugins {
 */
 version = "0.0"
 group= "fr.redrelay.lockablemod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "LockableMod "+version
+archivesBaseName = "LockableMod"
 
 minecraft {
     version = "1.10.2-12.18.1.2011"
