@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lockablemod",
+  "name": "Lockable Mod",
+  "description": "Use paddlock in Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RedRelay"],
+  "credits": "RedRelay",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
